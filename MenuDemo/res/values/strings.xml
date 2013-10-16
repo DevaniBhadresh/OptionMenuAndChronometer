@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MenuDemoActivity!</string>
+    <string name="app_name">MenuDemo</string>
+    <string name="head">Color Menu And Chronometer</string>
+    <string name="lblsec">Enter Number Of Second</string>
+	<string name="btnstr">Start</string>    <style name="TBillStyle">
+        <item name="android:textColor">#8B7500</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+    <style name="StlLbl">
+        <item name="android:textColor">#8BF999</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+	<string-array name="colors">
+	    <item>#ff0000</item>
+        <item>#00ff00</item>  
+        <item>#0000ff</item>
+        <item>#EE00EE</item>
+        <item>#8B1A1A</item>
+        <item>#EEAD0E</item>
+        <item>#CC00CC</item>
+	</string-array>
+</resources>
